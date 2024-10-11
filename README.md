@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanXueMu
 - 👀 I’m interested in football!
-- 🌱 I’m currently learning java && vue
-- 💞️ I’m looking to collaborate on u
+- 🌱 I’m currently learning java && react
+- 💞️ I’m looking to collaborate on qq
 - 📫 How to reach me 1514488254@qq.com
 
 <!---
